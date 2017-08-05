@@ -1,0 +1,3 @@
+[submodule "components/esp32-google-calendar-api"]
+	path = components/esp32-google-calendar-api
+	url = https://github.com/netpalm555/esp32-google-calendar-api.git
